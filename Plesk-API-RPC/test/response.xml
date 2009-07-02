@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<packet version="1.4.1.2">
+<domain>
+<get>
+   <result>
+      <status>ok</status>
+      <id>1234</id>
+      <value>
+          <gen_info>
+             <cr_date>1154513574</cr_date>
+             <name>technolux.co.uk</name>
+             <display_name>technolux</display_name>
+             <status>64</status>
+             <real_size>0</real_size>
+             <client_id>4610</client_id>
+             <dns_ip_address>123.123.123.121</dns_ip_address>
+             <htype>none</htype>
+          </gen_info>
+      </value>
+   </result>
+</get>
+</domain>
+</packet>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet version="1.4.1.2">
+  <siteapp>
+    <get_all_packages_list>
+      <result>
+        <status>ok</status>
+        <package>
+          <id>2</id>
+          <name>WordPress</name>
+          <version>2.7.1</version>
+          <release>1</release>
+          <description>WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.</description>
+          <license>free</license>
+          <access_level>free</access_level>
+          <instance>0</instance>
+        </package>
+      </result>
+    </get_all_packages_list>
+  </siteapp>
+</packet>

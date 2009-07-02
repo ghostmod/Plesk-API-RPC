@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet version="1.4.1.2">
+  <siteapp>
+    <get_all_packages_list/>
+  </siteapp>
+</packet>
